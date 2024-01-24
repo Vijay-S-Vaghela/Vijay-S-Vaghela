@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python & Android App Development...
 - 💞️ I’m looking to collaborate with start-Up's...
 - 📫 How to reach me here only through this link below
+- http://vijay-vaghela.wixsite.com/portfolio
+
+For Work fill this form:-
 - https://forms.gle/CBYBFso7t8gAbeUR7  
 - Contact me here...
 
